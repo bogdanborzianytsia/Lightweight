@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\laba6\laba6\bin\Debug\laba6.exe.config
+D:\HomeWork\Projects\laba6\laba6\bin\Debug\laba6.exe
+D:\HomeWork\Projects\laba6\laba6\bin\Debug\laba6.pdb
+D:\HomeWork\Projects\laba6\laba6\obj\Debug\laba6.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\laba6\laba6\obj\Debug\laba6.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\laba6\laba6\obj\Debug\laba6.Form1.resources
+D:\HomeWork\Projects\laba6\laba6\obj\Debug\laba6.Properties.Resources.resources
+D:\HomeWork\Projects\laba6\laba6\obj\Debug\laba6.csproj.GenerateResource.cache
+D:\HomeWork\Projects\laba6\laba6\obj\Debug\laba6.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\laba6\laba6\obj\Debug\laba6.exe
+D:\HomeWork\Projects\laba6\laba6\obj\Debug\laba6.pdb
